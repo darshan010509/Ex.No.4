@@ -1,50 +1,82 @@
 # Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+### DATE:09.09.2025                                                                           
+### REGISTER NUMBER :212222080013
+Report on Designing Prompts Using Different Prompt Types for an AI-Based Manufacturing Automation Use Case
+OBJECTIVE
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+To design and evaluate effective prompts using various prompt types—Comparative Analysis, Experiential Perspective, Everyday Functioning, Universal Structures, and Prompt Size Limitation—to generate insights for an AI-driven manufacturing automation system. The goal is to compare their performance across different AI models and assess their effectiveness using a rubric-based evaluation method.
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+INTRODUCTION
 
-Main Objectives:
+Prompt engineering plays a crucial role in guiding AI systems to produce accurate, relevant, and meaningful responses. In the context of Industry 4.0 and smart manufacturing, AI-powered automation systems depend heavily on well-designed prompts to deliver reliable insights, generate system designs, and support decision-making.
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+This report makes use of a manufacturing industry scenario from Unit 5, where IoT-enabled automation is used to monitor equipment, optimize energy usage, and enable predictive maintenance. Prompts are designed based on Unit-2 prompt patterns and evaluated using a rubric-based assessment. The focus is on how different prompt types influence the quality of output across leading AI tools such as ChatGPT, Gemini, Claude, and Copilot.
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+SCENARIO 1: Comparative Analysis Prompt
+Prompt Type Definition
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+This type asks the AI to compare and contrast two or more concepts.
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+Designed Prompt for Manufacturing Use Case
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+“Compare the effectiveness of traditional manual monitoring in manufacturing with an AI-enabled IoT monitoring system, focusing on efficiency, downtime reduction, and data accuracy.”
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+Purpose
 
+To evaluate how different AI models explain differences and advantages of automation in a structured manner.
 
+Expected Outcome
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+Clear comparison of features, benefits, and limitations of both approaches.
+
+SCENARIO 2: Experiential Perspective Prompt
+Prompt Type Definition
+
+This type asks the AI to respond from the perspective of a role or individual.
+
+Designed Prompt for Manufacturing Use Case
+
+“As a plant maintenance engineer, describe how predictive maintenance powered by IoT and AI has improved your workflow, reduced breakdowns, and enhanced decision-making.”
+
+Purpose
+
+To generate realistic, role-based insights from a first-person perspective.
+
+Expected Outcome
+
+Human-like, relatable explanations of how automation transforms job roles.
+
+SCENARIO 3: Everyday Functioning + Universal Structure + Prompt Size Limitation
+1. Everyday Functioning Prompt
+
+“Explain how automation systems in manufacturing work similarly to everyday smart devices like smart TVs or smart home appliances.”
+
+2. Universal Prompt Structure
+
+“Explain the process of predictive maintenance in simple terms with an example.”
+
+3. Prompt Size Limitation Strategy
+
+Original requirement:
+“Generate a full system architecture for IoT-based automation.”
+
+Revised prompt to fit size limitations:
+“Provide the first part of the IoT-based automation system architecture, focusing only on sensors and data collection. Continue in the next step.”
+
+Purpose
+
+To simplify complex industrial concepts and handle lengthy outputs in manageable parts.
+
+Expected Outcome
+
+Gradual, clear explanations suitable for beginners or non-technical users.
+
+CONCLUSION
+
+Prompt engineering significantly influences the quality, relevance, and depth of responses generated by AI tools. By applying multiple prompt structures—comparative, experiential, everyday functioning, universal, and size-limited—AI systems can produce tailored outputs suitable for different stakeholders in the manufacturing sector.
+
+This approach ensures better clarity, improved decision-making, and enhanced communication between AI systems and domain experts. Moreover, dividing complex tasks into smaller prompt chunks increases consistency and reduces errors from large output generation.
+
+RESULT
+
+The experiment successfully demonstrated the use of multiple prompt types to generate meaningful and high-quality outputs for an AI-based manufacturing automation scenario. All prompt types were executed effectively, and the rubric-based evaluation confirmed that structured prompt design improves clarity, completeness, accuracy, and user relevance. The goal of analyzing prompt performance across different AI tools was achieved.
